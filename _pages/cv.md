@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://MalenaHedemann.github.io/cv/CV.pdf" width="100%" height="850px"/>
+<embed src="https://MalenaHedemann.github.io/_pages/CV.pdf" width="100%" height="850px"/>
