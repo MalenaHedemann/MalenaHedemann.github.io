@@ -27,8 +27,8 @@ Languages
 (IGCSE)
   * Cambridge - Cambridge English Level 1 Certificate in ESOL International
 (First)
-  * Education First program in Boston ~ EF standard English Test (C1 level) - International Baccalaureate - The IB Diplome Programme (overall score:
-30)
+  * Education First program in Boston - EF standard English Test (C1 level) 
+  * International Baccalaureate - The IB Diplome Programme (overall score: 30)
   * Cambridge - Cambridge English Level 2 Certificate in ESOL International
 (Advanced)
 
