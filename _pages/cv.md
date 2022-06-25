@@ -10,11 +10,11 @@ Education
 ======
 
 * MASTER'S DEGREE IN ECONOMICS 
-    * Universidad de San Andrés | 2022 - present
+    * Universidad de San Andrés, 2022 - present
 * BACHELOR DEGREE OF ECONOMICS 
-    * Universidad de San Andrés | 2018 -2021
+    * Universidad de San Andrés, 2018 -2021
 * SECONDARY SCHOOL
-    * St. Mary's International College | 2012- 2017
+    * St. Mary's International College, 2012- 2017
 
 
 Languages
@@ -22,7 +22,7 @@ Languages
 * Spanish - Native
 
 * English - Advanced level
-  * St. Mary’s International College  | 2006 - 2017
+  * St. Mary’s International College, 2006 - 2017
   * Cambridge - International General Certificate of Secondary Education
 (IGCSE)
   * Cambridge - Cambridge English Level 1 Certificate in ESOL International
