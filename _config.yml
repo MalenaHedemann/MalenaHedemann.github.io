@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Malena Hedemann"
 title_separator          : "-"
 name                     : &name "Malena Hedemann"
-description              : &description "AAAAAAAAAAA"
+description              : &description "Student"
 url                      : https://MalenaHedemann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MalenaHedemann/MalenaHedemann.github.io"
@@ -83,26 +83,26 @@ author:
   name             : "Malena Hedemann"
   avatar           : "foto.jpeg"
   bio              : "Student"
-  location         : "Buenos Aires"
+  location         : "Buenos Aires, Argentina"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "malena@hedemann.com.ar"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/MaleHedemann"
   foursquare       :
   github           : "MalenaHedemann"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "MaleHedemann"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/MalenaHedemann"
   orcid            : 
   pinterest        :
   soundcloud       :
