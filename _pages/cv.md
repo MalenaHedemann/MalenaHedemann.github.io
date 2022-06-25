@@ -44,4 +44,4 @@ Skills
 * Office: Outlook - Excel – Word – Power Point – One Note
 * Knowledge of Latex
 
-
+AAA
