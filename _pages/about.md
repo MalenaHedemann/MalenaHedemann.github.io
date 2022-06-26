@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Student of the Masters Degree on Economics at [Universidad de San Andrés](www.udesa.edu.ar).
+Bachelor graduate in Economics and Master in Economics student at [Universidad de San Andrés](www.udesa.edu.ar).
 
-For more info
+More info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+No se que informacion mia poner :)
+
+
+
