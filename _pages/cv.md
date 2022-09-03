@@ -12,10 +12,14 @@ Education
 * MASTER'S DEGREE IN ECONOMICS 
     * Universidad de San Andrés, 2022 - present
 * BACHELOR DEGREE OF ECONOMICS 
-    * Universidad de San Andrés, 2018 -2021
+    * Universidad de San Andrés, 2018 - 2021
 * SECONDARY SCHOOL
-    * St. Mary's International College, 2012- 2017
+    * St. Mary's International College, 2012 - 2017
 
+Work Experience
+======
+* PricewaterhouseCoopers
+    * Delivering Deal Value (Advisory Europe), 2022 - present   
 
 Languages
 ======
@@ -43,3 +47,4 @@ Skills
   * Github
 * Office: Outlook - Excel – Word – Power Point – One Note
 * Knowledge of Latex
+* Alteryx 
