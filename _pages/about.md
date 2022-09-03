@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Bachelor graduate in Economics and Master in Economics student at [Universidad de San Andrés](www.udesa.edu.ar).
+Master's student in Economics at [Universidad de San Andrés](www.udesa.edu.ar).
 
 More info
 ------
 
-No se que informacion mia poner :)
-
+Currently working at Pwc and a huge fan of the mercedes team of formula 1. 
 
 
