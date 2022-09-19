@@ -11,7 +11,7 @@ Education
 
 * MASTER'S DEGREE IN ECONOMICS 
     * Universidad de San Andrés, 2022 - present
-* BACHELOR DEGREE OF ECONOMICS 
+* BACHELOR DEGREE IN ECONOMICS 
     * Universidad de San Andrés, 2018 - 2021
 * SECONDARY SCHOOL
     * St. Mary's International College, 2012 - 2017
@@ -40,7 +40,6 @@ Languages
 Skills
 ======
 * Programming language:
-* Skill 2
   * R
   * STATA
   * Python
